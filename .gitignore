@@ -6,6 +6,7 @@
 *.LOG
 
 # folders
+Temps
 History
 __Previews
 Project Logs for *
